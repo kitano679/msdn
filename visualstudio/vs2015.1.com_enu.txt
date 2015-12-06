@@ -1,0 +1,4 @@
+File Name: vs2015.1.com_enu.iso
+Languages: English
+SHA1: FB5AE6B57BDC495AFB29646AFCA088756363A263
+http://download.microsoft.com/download/5/7/A/57A99666-126E-42FA-8E70-862EDBADD215/vs2015.1.com_enu.iso
